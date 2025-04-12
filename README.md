@@ -1,0 +1,1 @@
+This project is a fully responsive and visually engaging website built with HTML, CSS, JavaScript, and GSAP. It includes modern scroll-triggered animations, interactive UI elements, and a clean layout design. The goal was to explore the power of GSAP for frontend motion design.
